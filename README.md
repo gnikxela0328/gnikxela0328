@@ -1,2 +1,2 @@
 <div align="center" width="100%" >
-<a href="https://www.linkedin.com/in/alex-king00/"><img src="https://github.com/gnikxela0328/gnikxela0328/blob/main/seethrough%20pstack.gif" width="70%" height="70%" /></a></div>
+<a href="https://www.linkedin.com/in/alex-king00/"><img src="https://github.com/gnikxela0328/gnikxela0328/blob/main/purplestack_logo.webm" width="70%" height="70%" /></a></div>
